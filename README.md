@@ -1,3 +1,6 @@
+# Task tracking application for react. Use json-server for mock REST API. Add, Delete tasks toggle reminders for important ones.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
