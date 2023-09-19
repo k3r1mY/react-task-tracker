@@ -3,14 +3,14 @@
     {
       "text": "Registration",
       "day": "Sep 20th ",
-      "reminder": true,
+      "reminder": false,
       "id": 1
     },
     {
-      "text": "Mustafa Senin Got Deligin",
-      "day": "Sep 21st",
+      "text": "Halisaha",
+      "day": "18th Sep 19:00",
       "reminder": true,
-      "id": 2
+      "id": 3
     }
   ]
 }
